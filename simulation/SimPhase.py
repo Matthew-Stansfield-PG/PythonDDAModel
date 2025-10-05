@@ -2,7 +2,7 @@ import numpy as np
 from collections import defaultdict
 from typing import Dict, List, Set, Tuple, Any, Optional
 import random
-from core.SimElementExact import StimulusElement
+from core.SimElement import StimulusElement
 
 
 class SimPhase:
