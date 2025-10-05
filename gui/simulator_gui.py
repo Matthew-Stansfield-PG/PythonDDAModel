@@ -31,7 +31,7 @@ from simulation.simModel import SimModel
 from simulation.sim_group import SimGroup
 from simulation.SimPhase import SimPhase
 from core.stimulus import Stimulus
-from core.SimElementExact import StimulusElement
+from core.SimElement import StimulusElement
 from core.trial import Trial
 from core.cs import CS
 
